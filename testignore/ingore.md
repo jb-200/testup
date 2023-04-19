@@ -15,3 +15,8 @@ git rm -r --cached .idea
 ```
 4. https://juejin.cn/post/6998911250323390501
 5. https://blog.csdn.net/Saintmm/article/details/120847019
+6. https://blog.csdn.net/w1_2_3_/article/details/120440935
+```python
+#fatal: unable to access  schannel: failed to receive handshake, SSL/TLS connection failed
+git config – global http.sslBackend “openssl”
+```
